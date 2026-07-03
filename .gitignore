@@ -1,0 +1,8 @@
+.idea/
+logs/
+back_end/logs/
+front_end/dist/
+front_end/node_modules/
+back_end/target/
+.m2repo/
+*.log
